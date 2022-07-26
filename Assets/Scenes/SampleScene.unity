@@ -2640,7 +2640,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1665361769}
   m_Layer: 0
-  m_Name: "\u0426\u0435\u043B\u0438"
+  m_Name: "\u0432\u043E\u0440\u043E\u043D\u044B"
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
